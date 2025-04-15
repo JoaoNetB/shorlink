@@ -2,6 +2,8 @@
 
 A simple link shortener made with laravel.
 
+<img src="/docs/images/home-page-image.png" width="500"/>
+
 ## Contents
 
 - [Getting Started](#getting-started)
@@ -45,7 +47,8 @@ php artisan key:generate
 ```
 
 5. **Install the Node dependencies**
-```
+
+```bash
 npm install
 ```
 
